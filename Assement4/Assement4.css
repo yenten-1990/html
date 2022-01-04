@@ -1,0 +1,40 @@
+body
+{
+    background-color: bisque;
+    color:yellow;
+    font-family: monospace;
+}
+
+h1
+{
+    text-align: center;
+    color:blue;
+    text-decoration: underline;
+
+}
+nav{
+    background-color:blue;
+    text-align:center;
+     height:60px;
+     border:2px solid black;
+     padding-top: 20px;
+     }   
+     a{
+         font-size: xx-large;
+     }     
+p
+{
+border:3px solid red;
+color:rgb(120, 120, 150);
+border-radius:px 0px;
+background-color:black;
+text-align: justify;
+}
+  p{
+      font-size:italic;
+      border:3px blank dashed;
+      border-radius: 15px 0px;
+      background-color:black;
+
+  }  
+

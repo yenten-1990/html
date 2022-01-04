@@ -1,0 +1,15 @@
+body #paragraph1, #paragraph2 {
+    background-color: black;
+    color: white;
+    border:3px solid saddlebrown;
+    text-align: justify; 
+    text-indent: 20px;
+
+
+
+}
+h1{
+text-decoration: underline wavy 2px burlywood;
+text-align:center;
+color: aquamarine;
+}

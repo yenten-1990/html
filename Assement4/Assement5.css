@@ -1,0 +1,43 @@
+
+body{
+    text-align: center;
+ font-style: italic;
+    background-color:lightblue;
+}
+h3{
+    border: 2px solid red;
+    text-align: center;
+    color:black;
+    border-radius: 0px 5px;
+
+}
+av{
+    background-color:blue;
+    text-align:center;
+     height:60px;
+     border:2px solid black;
+     padding-top: 20px;
+     }   
+     a{
+         font-size: xx-large;
+     }  
+.paragraph
+{
+ text-align: justify;
+    color:purple;
+}
+
+    .paragraph1{
+        border:2px solid brown;
+        border-radius:5px;
+        text-align:justify;
+        color:red;
+    
+    }
+    
+    .paragrap2{
+        color:gold;
+        background-color:green;
+        text-indent: 5px;
+        word-spacing: 5px;
+    }
